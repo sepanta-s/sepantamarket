@@ -1,0 +1,4 @@
+[16-Dec-2020 12:33:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/toshakon/public_html/wp-content/themes/sepantamarket/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/toshakon/public_html/wp-content/themes/sepantamarket/index.php on line 1
